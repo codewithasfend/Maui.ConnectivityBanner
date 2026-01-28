@@ -36,11 +36,7 @@ xmlns:controls="clr-namespace:Maui.ConnectivityBanner.Controls;assembly=DotNetMa
 ```xml
 <Grid>
     <!-- Your Page Content -->
-    <ScrollView>
-        <VerticalStackLayout>
-            <Label Text="Hello MAUI" />
-        </VerticalStackLayout>
-    </ScrollView>
+    
 
     <!-- Connectivity Banner -->
     <controls:ConnectivityView
