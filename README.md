@@ -71,11 +71,11 @@ All public BindableProperties can be customized in XAML or C#:
 
 ## Notes
 
-. Always place the banner inside a Grid with VerticalOptions="Start".
-. Safe for multiple pages / repeated usage.
-. Banner automatically subscribes and unsubscribes from connectivity events.
-. Works on Android, iOS, MacCatalyst, and Windows.
-. Banner height is adjustable via BannerHeight property.
+- Always place the banner inside a Grid with VerticalOptions="Start".
+- Safe for multiple pages / repeated usage.
+- Banner automatically subscribes and unsubscribes from connectivity events.
+- Works on Android, iOS, MacCatalyst, and Windows.
+- Banner height is adjustable via BannerHeight property.
 
 ## License
 MIT License
