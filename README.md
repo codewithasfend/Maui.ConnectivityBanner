@@ -30,7 +30,7 @@ Install-Package DotNetMaui.ConnectivityBanner
 1. Add the namespace to your XAML page root:
 
 ```xml
-xmlns:controls="clr-namespace:Maui.ConnectivityBanner.Controls;assembly=DotNetMaui.ConnectivityBanner"
+xmlns:controls="clr-namespace:Maui.ConnectivityBanner.Controls;assembly=Maui.ConnectivityBanner"
 ```
 2. Add the banner inside a Grid so it overlays your page content:
 ```xml
